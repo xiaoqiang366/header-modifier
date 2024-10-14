@@ -1,0 +1,32 @@
+{
+  "name": "header-modifier",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "postbuild": "node build/index.js",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@heroicons/vue": "^2.1.5",
+    "vue": "^3.4.37"
+  },
+  "devDependencies": {
+    "@crxjs/vite-plugin": "2.0.0-beta.25",
+    "@types/chrome": "^0.0.271",
+    "@types/node": "^22.5.5",
+    "@vitejs/plugin-vue": "^5.1.2",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.13",
+    "typescript": "5",
+    "vite": "^5.4.1",
+    "vue-tsc": "^2.1.6",
+    "zip-a-folder": "^3.1.7"
+  },
+  "volta": {
+    "node": "18.17.1"
+  }
+}
