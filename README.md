@@ -9,6 +9,8 @@
 
 [header-modifier插件使用说明](https://xiaoqiang366.github.io/header-modifier.github.io/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E-20241012.pdf)
 
+
+
 ## 项目运行
 
 依赖安装：nodejs版本18+，pnpm版本8+
@@ -27,6 +29,7 @@ pnpm run build
 
 参考工具：
 
++ [Chrome扩展程序官方开发教程](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world)
 + [在线Chrome插件图标生成器](https://uutool.cn/chrome-icon/)
 + [下载Chrome扩展插件Crx离线安装包](https://crxdl.com/)
 + [如何解压Chrome插件包](https://fasionchan.com/chrome-extensions/appendices/unpack-chrome-crx/)
